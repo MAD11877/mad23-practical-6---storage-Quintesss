@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="user_header">Hello World</string>
+
+    <string name="user_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </string>
+
+    <string name="follow_button">FOLLOW</string>
+    <string name="message_button">MESSAGE</string>
+
+    //recycler
+    <string name="item_User">Username</string>
+    <string name="item_Desc">Description</string>
+</resources>
